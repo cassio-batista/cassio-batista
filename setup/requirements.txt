@@ -1,0 +1,13 @@
+# Bibliotecas Python da stack AEC (Claude Code escreve código com elas)
+ezdxf            # desenho 2D DXF (plantas, cortes, cotas, layers)
+ifcopenshell     # BIM / IFC: leitura, escrita, IfcClash, IfcTester
+shapely          # geometria 2D: áreas, recuos, taxa de ocupação
+PyNiteFEA        # análise estrutural (vigas, pórticos, lajes)
+openseespy       # análise estrutural avançada
+ladybug-core     # carta solar, clima (EPW), insolação
+topologicpy      # modelagem espacial e grafos de ambientes
+rhino3dm         # ler/escrever .3dm sem abrir o Rhino
+openpyxl         # planilhas Excel (orçamento)
+pandas           # tabelas (SINAPI, quantitativos)
+matplotlib       # gráficos e renderização de DXF
+python-docx      # documentos Word (memorial descritivo)

@@ -1,0 +1,49 @@
+{
+  "titulo": "MEMORIAL DESCRITIVO",
+  "obra": "Residência Unifamiliar Térrea",
+  "finalidade": "Aprovação de projeto arquitetônico junto à Prefeitura Municipal",
+  "identificacao": {
+    "Proprietário": "[a preencher]",
+    "Endereço da obra": "[a preencher]",
+    "Lote / Quadra / Matrícula": "[a preencher]",
+    "Padrão de acabamento (NBR 12721)": "Normal",
+    "Uso": "Residencial unifamiliar"
+  },
+  "areas": [
+    ["Área do terreno", 300.0],
+    ["Área construída – pavimento térreo", 128.4],
+    ["Área construída total", 128.4],
+    ["Área permeável", 75.0]
+  ],
+  "secoes": [
+    {
+      "titulo": "Considerações gerais",
+      "texto": [
+        "O presente memorial tem por objetivo descrever os materiais e os serviços a serem empregados na construção da residência, em conformidade com os projetos aprovados e com as normas técnicas da ABNT vigentes, em especial a NBR 15575 (Desempenho de edificações habitacionais).",
+        "Em caso de divergência entre projetos e este memorial, prevalecerá a orientação do responsável técnico."
+      ]
+    },
+    {
+      "titulo": "Fundações",
+      "texto": ["As fundações serão do tipo sapata isolada com vigas baldrame em concreto armado, dimensionadas conforme projeto estrutural e sondagem SPT do terreno (NBR 6122 e NBR 6484)."],
+      "itens": [
+        "Concreto estrutural fck ≥ 25 MPa, aço CA-50 e CA-60.",
+        "Impermeabilização das vigas baldrame com emulsão asfáltica em duas demãos, com dobra de 15 cm nas faces laterais."
+      ]
+    },
+    {
+      "titulo": "Pisos e rodapés",
+      "texto": ["Os pisos serão assentados sobre contrapiso nivelado, com argamassa colante do tipo indicado pelo fabricante, conforme tabela de acabamentos por ambiente."],
+      "tabela": {
+        "cabecalho": ["Ambiente", "Piso", "Rodapé"],
+        "linhas": [
+          ["Sala / Cozinha", "Porcelanato retificado 90×90 cm, acabamento acetinado, ou equivalente técnico", "Poliestireno branco 7 cm"],
+          ["Dormitórios", "Piso vinílico em régua, 2 mm, ou equivalente técnico", "Poliestireno branco 7 cm"],
+          ["Banheiros", "Porcelanato antiderrapante 60×60 cm (a definir)", "—"]
+        ]
+      }
+    }
+  ],
+  "responsavel": {"nome": "[a preencher]", "registro": "[a preencher]", "rrt": "[a preencher]"},
+  "local_data": ""
+}
